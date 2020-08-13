@@ -1,0 +1,11 @@
+{
+    "NAME": "Dipika Tele",
+    "ABOUT_ME": "I am working as Asssistant Professor as well as self employed",
+    "PROJECTS": [
+        ["filter_drama","Google","Google is amazing search engine."],
+        ["place","YouTube","Best platform for video sharing." ],
+        ["whatshot","Gmail","You all know what this is."]
+       ],
+    "LANGUAGES": ["Python","JavaScript","SQL"
+    ]
+}
